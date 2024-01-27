@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+Pillow
+firebase-admin
+face-recognition
+numpy
+pandas
+opencv-python
+python-dotenv
+cvzone
